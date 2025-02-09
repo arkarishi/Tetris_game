@@ -1,8 +1,6 @@
 """
                        Tetris
                          by
-               Aditi Saxena & Ajesh Sharma 
-          [RA2211026010402]   [RA2211026010383]
                    Section - W2
              Specialisation - AI & ML
   Subject - Programming for problem solving [21CSS101J]
