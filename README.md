@@ -15,11 +15,9 @@ To install the required dependencies, run:
 pip install pyray
 python tetris.py
 
-
 #### **5️⃣ Usage Guide**
 Explain how to use or play the project.
 
-```md
 ## How to Play
 - **Move Left:** Press `A`
 - **Move Right:** Press `D`
